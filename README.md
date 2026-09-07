@@ -199,7 +199,7 @@ Este é um projeto **colaborativo**! Você pode ajudar:
 
 ## ⚖️ Licença
 
-Este projeto está sob a licença MIT. Sinta-se livre para usar e compartilhar.
+Este projeto Primeira versão do README. Sinta-se livre para usar e compartilhar.
 
 ---
 
